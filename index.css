@@ -1,0 +1,176 @@
+.Re{background-color: red;
+    border: 10px solid darkred;
+    margin: 25px;
+    color: white;
+    width: 175px;
+    height: 175px;
+    padding: 25px;
+    font-size: xx-large;
+    }
+    .Or{background-color: orange;
+    border: 10px solid darkorange;
+    margin: 25px;
+    color: white;
+    width: 175px;
+    height: 175px;
+    padding: 25px;
+    font-size: xx-large;}
+    .Ye{background-color: yellow;
+    border: 10px solid gold;
+    margin: 25px;
+    color: black;
+    width: 175px;
+    height: 175px;
+    padding: 25px;
+    font-size: xx-large;
+    }
+    .Gr{background-color: rgb(0, 162, 22);
+    border: 10px solid rgb(13, 115, 0);
+    margin: 25px;
+    color: white;
+    width: 175px;
+    height: 175px;
+    padding: 25px;
+    font-size: xx-large;}.Bl{background-color: rgb(0, 179, 255);
+    border: 10px solid rgb(0, 127, 181);
+    margin: 25px;
+    color: white;
+    width: 175px;
+    height: 175px;
+    padding: 25px;
+    font-size: xx-large;}
+    .Pu{background-color: rgb(153, 0, 255);
+    border: 10px solid rgb(94, 0, 181);
+    margin: 25px;
+    color: white;
+    width: 175px;
+    height: 175px;
+    padding: 25px;
+    font-size: xx-large;}
+    .Pi{background-color: rgb(255, 0, 255);
+    border: 10px solid rgb(181, 0, 136);
+    margin: 25px;
+    color: white;
+    width: 175px;
+    height: 175px;
+    padding: 25px;
+    font-size: xx-large;}
+    .Bla{background-color: rgb(33, 33, 33);
+    border: 10px solid rgb(0, 0, 0);
+    margin: 25px;
+    color: white;
+    width: 55px;
+    height: 50px;
+    padding: 25px;
+    font-size: xx-large;
+    display: inline-block;
+    }.Gra{background-color: rgb(112, 112, 112);
+    border: 10px solid rgb(68, 68, 68);
+    margin: 25px;
+    color: white;
+    width: 175px;
+    height: 175px;
+    padding: 25px;
+    font-size: xx-large;}
+    .Wh{background-color: rgb(255, 255, 255);
+    border: 10px solid rgb(218, 218, 218);
+    margin: 25px;
+    color: black;
+    width: 175px;
+    height: 175px;
+    padding: 25px;
+    font-size: xx-large;}.Br{background-color: rgb(89, 53, 0);
+    border: 10px solid rgb(50, 37, 0);
+    margin: 25px;
+    color: white;
+    width: 175px;
+    height: 175px;
+    padding: 25px;
+    font-size: xx-large;}
+    .a{background-color: rgb(0, 0, 0);
+        width: 200px;
+        height: 200px;
+        Color: white;
+        border:solid 15px rgb(255, 255, 255) ;
+        margin: 25px;
+        padding: 25px;
+        font-size: 36px;
+    }
+    .b{background-color: rgb(251, 255, 0);
+        width: 200px;
+        height: 200px;
+        Color: black;
+        border:solid 15px  blue;
+        margin: 25px;
+        padding: 25px;
+        font-size: 36px;}
+        .c{background-color: rgb(45, 223, 0);
+        Color: white;
+        border:solid 15px  purple;
+        margin: 25px;
+        padding: 25px;
+        font-size: 36px;
+        display: inline-block;
+    }
+        .d{background-color: rgb(223, 0, 167);
+        width: 200px;
+        height: 200px;
+        Color: white;
+        border:solid 15px  purple;
+        margin: 25px;
+        padding: 25px;
+        font-size: 36px}        
+        .a{
+            background-color: darkblue;
+            border: solid 5px darkcyan;
+            color: white;
+            margin: 5px;
+            height: 20px;
+            font-size: 35px;
+            width: 20px;
+            padding: 25px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+
+
+        }
+        .b{            background-color: red;
+            border: solid 5px darkred;
+            color: white;
+            margin: 5px;
+            height: 20px;
+            font-size: 35px;
+            width: 20px;
+            padding: 25px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+    } .ab{
+        background-color: darkblue;
+        border: solid 5px darkcyan;
+        color: white;
+        margin: 5px;
+        height: 20px;
+        width: auto;
+        font-size: 35px;
+        width: 20px;
+        padding: 25px;
+        margin-top: 10px;
+        margin-bottom: 10px;;
+
+    }
+    .bc{            background-color: red;
+        border: solid 5px darkred;
+        color: white;
+        margin: 5px;
+        height: 20px;
+        font-size: 35px;
+        width: 250px;
+        padding: 25px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;;
+    }
+    body{background-image: url(https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    }
