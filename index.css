@@ -174,3 +174,11 @@
     body{background-image: url(https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-size: cover;
     }
+    .lol{background-color: rgb(255, 245, 157);
+        border: 10px solid rgb(255, 236, 65);
+        margin: 25px;
+        color: white;
+        width: 175px;
+        height: 175px;
+        padding: 25px;
+        font-size: xx-large;}
